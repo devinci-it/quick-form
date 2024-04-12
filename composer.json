@@ -1,0 +1,13 @@
+{
+    "name": "devinci-it/quick-form",
+    "description": "Quick-Form is a lightweight PHP library designed to streamline the creation of HTML forms in your PHP applications. It provides a simple and intuitive interface for generating HTML forms with ease.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Devinci\\QuickForm\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
